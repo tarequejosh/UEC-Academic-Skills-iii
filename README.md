@@ -1,5 +1,7 @@
 # FedUA-Net Presentation Slides (IWAIT 2027)
 
+**Live slides:** [https://tarequejosh.github.io/UEC-Academic-Skills-iii/](https://tarequejosh.github.io/UEC-Academic-Skills-iii/) · [PDF version](FedUA-Net_Presentation.pdf)
+
 **Presenter:** Md Tareque Jamil Josh\*  
 **Supervisor:** Prof. Hiroki Takahashi\*\*  
 \* *UEC Exchange Study Program (JUSST Program), The University of Electro-Communications, Tokyo, Japan*  
